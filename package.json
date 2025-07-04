@@ -1,0 +1,30 @@
+{
+  "name": "playwright-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lieutu/playwright-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lieutu/playwright-library/issues"
+  },
+  "homepage": "https://github.com/lieutu/playwright-library#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "playwright": "^1.53.2"
+  }
+}
